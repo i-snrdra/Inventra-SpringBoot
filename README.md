@@ -38,9 +38,9 @@ Before you begin, ensure you have the following installed:
 
 ## 🚀 Setup & Installation
 
-1.  **Clone the Repository (Placeholder)**
+1.  **Clone the Repository**
     ```bash
-    # git clone <repository-url>
+    # git clone https://github.com/i-snrdra/Inventra-SpringBoot.git
     # cd Inventra
     ```
     *(For now, you are working with the project locally.)*
