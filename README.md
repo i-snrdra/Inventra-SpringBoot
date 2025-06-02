@@ -128,7 +128,7 @@ It's recommended to use an API client like [Postman](https://www.postman.com/) o
     *   For `POST` and `PUT` requests, ensure the `Content-Type` header is set to `application/json`.
     *   Observe the HTTP status codes and JSON responses.
 
-## 🤝 Contributing (Placeholder)
+## 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 1.  Fork the repository.
@@ -138,10 +138,10 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5.  Push to the branch (`git push origin feature/your-feature-name`).
 6.  Open a Pull Request.
 
-## 📜 License (Placeholder)
+## 📜 License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details (if one is created).
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ---
 
-*Happy Coding!* 
+*Stay Curious!* 

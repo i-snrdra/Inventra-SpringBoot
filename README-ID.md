@@ -138,10 +138,10 @@ Kontribusi sangat diharapkan! Jika Anda ingin berkontribusi, silakan ikuti langk
 5.  Push ke branch (`git push origin feature/nama-fitur-anda`).
 6.  Buka Pull Request.
 
-## 📜 Lisensi (Placeholder)
+## 📜 Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file `LICENSE.md` untuk detailnya (jika dibuat).
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file `LICENSE.md` untuk detailnya.
 
 ---
 
-*Selamat Ngoding!* 
+*Stay Curious!* 
